@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/960488060917800972/960490491487617034/pastel-ombre-background-pink-purple_53876-120750.jpg);
+    text-align: center;
+    align-items: center;
+    background-size: cover;
+    font-family: 'Send Flowers', cursive;
+}
+button{
+    background-color:#ddecfc;
+    background-size: cover;
+    font-family: 'Send Flowers', cursive;
+    height: 80px;
+width: 100px;
+}

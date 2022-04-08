@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+img{
+  border-radius: 50%;
+}
+table,tr,td,th{
+  margin: auto;
+  border-spacing: 5px;
+  padding: 20px;
+  border-collapse: collapse;
+  font-size: 20px;
+  justify-content: space-evenly;
+  height: 100%;
+  }
+table, tr,td,th{
+  align-items: center;
+  justify-content: space-evenly;
+}
+body{
+  background-image: url(https://media.discordapp.net/attachments/960488060917800972/960490491487617034/pastel-ombre-background-pink-purple_53876-120750.jpg?width=702&height=468);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Send Flowers', cursive;
+}
+h1{
+  align-items: center;
+  justify-self: center;
+  margin-left: 590px;
+}
+
+.checkbox{
+  align-items: center;
+  text-align: center ;
+}
+
+.But , button{
+  align-items: center;
+  text-align: center ;
+
+}
+button{
+background-color:pink ;
+border-radius: 10%;
+height: 60px;
+width: 100px;
+}
+checkbox{
+  width: 250px;
+}

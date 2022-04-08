@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+body{
+    text-align:center ;
+    background-image: url(https://media.discordapp.net/attachments/960488060917800972/960490491487617034/pastel-ombre-background-pink-purple_53876-120750.jpg?width=702&height=468);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Send Flowers', cursive;
+}
+nav{
+    position: absolute;
+    height: 70px;
+    width: 105%;
+    margin-top: 0px;
+    top: 0px;
+    justify-content: space-evenly;
+    display: flex;
+    background-color: rgb(255, 238, 0);
+    left: -10px;
+}
+nav>a>h2{
+    display: block;
+    padding: 8px;
+
+}
+nav>a{
+    text-decoration: none;
+    color: black;
+}
+img{
+    border-radius: 50%;
+}
